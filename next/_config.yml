@@ -142,7 +142,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
-  Github:https://github.com/jarvisxiong
+  GitHub:https://github.com/jarvisxiong
 
 # Social Links Icons
 # Icon Mapping:

@@ -1,1 +1,4 @@
-在阿里云控制台，设置主机记录www，记录类型为A，记录值是IP192.30.252.153。其中192.30.252.153是Github Pages服务器指定的IP地址，访问该IP地址即表示访问Github Pages
+title: GitHub Page Domain
+date: 2017-05-13 10:37:13
+---
+### GitHub Pages和每个项目绑定自定义域名（支持多个和顶级域名）

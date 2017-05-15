@@ -8,7 +8,7 @@ git commit -m “update”
 git push origin master
 echo 'push to github jarvisxiong.github.io ....'
 echo 'push to github hexoblog ....'
-cd ../../hexoblog1/
+cd ../../hexoblog/
 git add .
 git commit -m "update"
 git push origin master

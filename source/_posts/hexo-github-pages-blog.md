@@ -6,6 +6,8 @@ tags: [Hexo, Github]
 
 ---
 
+### [转载自令狐葱](https://github.com/jiji262/jiji262.github.io)
+
 ### **Update**
 
 [20170117] 将博客theme换成了[Next](https://github.com/iissnan/hexo-theme-next)
